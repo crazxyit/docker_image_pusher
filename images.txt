@@ -12,6 +12,13 @@ prometheus_demo_service:latest
 grafana:12.1.0
 kube-router:latest
 workspace-full:latest
+centos:8
+openeuler-22.03-lts-sp3:latest
+jenkins:latest
+gitlab-ce:latest
+inbound-agent:3309.v27b_9314fd1a_4-1
+nfs-subdir-external-provisioner:v4.0.2
+
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
