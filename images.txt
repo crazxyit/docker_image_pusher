@@ -8,10 +8,16 @@
 #bitnami/kube-state-metrics:2.16.0
 #bitnami/kube-rbac-proxy:0.19.1
 #bitnami/configmap-reload:0.15.0
-mirrorgooglecontainers/metrics-server-amd64:v0.2.0
-grafana/grafana:12.1.0
-cloudnativelabs/kube-router:latest
-gitpod/workspace-full:latest
+#mirrorgooglecontainers/metrics-server-amd64:v0.2.0
+#grafana/grafana:12.1.0
+#cloudnativelabs/kube-router:latest
+#gitpod/workspace-full:latest
+
+openeuler/openeuler:22.03-lts-sp3
+openeuler/openeuler:22.03-lts-sp4
+ubuntu:22.04
+centos:centos7.9.2009
+
 
 
 #支持私库
