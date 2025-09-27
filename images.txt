@@ -1,5 +1,18 @@
+bitnami/prometheus-operator:0.85.0
+bitnami/prometheus:v3.5.0
+bitnami/alertmanager:0.28.1
+v5cn/prometheus-adapter:v0.12.0
+bitnami/blackbox-exporter:0.27.0
 
-jenkins/inbound-agent:3309.v27b_9314fd1a_4-1
+bitnami/node-exporter:v1.9.1
+bitnami/kube-state-metrics:v2.16.0
+bitnami/kube-rbac-proxy:v0.19.1
+bitnami/configmap-reload:v0.15.0
+rancher/metrics-server-amd64:v0.2.0
+grafana/grafana:12.1.0
+cloudnativelabs/kube-router:latest
+gitpod/workspace-full:latest
+
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
