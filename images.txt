@@ -1,22 +1,20 @@
-#bitnami/prometheus-operator:0.85.0
-#bitnami/prometheus:3.5.0
-#bitnami/alertmanager:0.28.1
-#v5cn/prometheus-adapter:v0.12.0
-#bitnami/blackbox-exporter:0.27.0
+# Prometheus-operater需要的镜像
+docker.io/cloudnativelabs/kube-router
+gcr.io/google_containers/metrics-server-amd64:v0.2.0
+ghcr.io/jimmidyson/configmap-reload:v0.15.0
+gitpod/workspace-full
+grafana/grafana:12.1.0
+quay.io/brancz/kube-rbac-proxy:v0.19.1
+quay.io/fabxc/prometheus_demo_service
+quay.io/prometheus/alertmanager:v0.28.1
+quay.io/prometheus/blackbox-exporter:v0.27.0
+quay.io/prometheus/node-exporter:v1.9.1
+quay.io/prometheus-operator/prometheus-operator:v0.85.0
+quay.io/prometheus/prometheus:v3.5.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.16.0
+registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.12.0
+quay.io/prometheus-operator/prometheus-config-reloader:v0.85.0
 
-#bitnami/node-exporter:1.9.1
-#bitnami/kube-state-metrics:2.16.0
-#bitnami/kube-rbac-proxy:0.19.1
-#bitnami/configmap-reload:0.15.0
-#mirrorgooglecontainers/metrics-server-amd64:v0.2.0
-#grafana/grafana:12.1.0
-#cloudnativelabs/kube-router:latest
-#gitpod/workspace-full:latest
-
-openeuler/openeuler:22.03-lts-sp3
-openeuler/openeuler:22.03-lts-sp4
-ubuntu:22.04
-centos:centos7.9.2009
 
 
 
