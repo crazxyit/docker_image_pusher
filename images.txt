@@ -4,11 +4,11 @@
 #v5cn/prometheus-adapter:v0.12.0
 #bitnami/blackbox-exporter:0.27.0
 
-bitnami/node-exporter:1.9.1
-bitnami/kube-state-metrics:2.16.0
-bitnami/kube-rbac-proxy:0.19.1
-bitnami/configmap-reload:0.15.0
-rancher/metrics-server-amd64:0.2.0
+#bitnami/node-exporter:1.9.1
+#bitnami/kube-state-metrics:2.16.0
+#bitnami/kube-rbac-proxy:0.19.1
+#bitnami/configmap-reload:0.15.0
+mirrorgooglecontainers/metrics-server-amd64:v0.2.0
 grafana/grafana:12.1.0
 cloudnativelabs/kube-router:latest
 gitpod/workspace-full:latest
