@@ -1,5 +1,6 @@
 keycloak/keycloak:26.4
-
+keycloak/keycloak:21.1.1
+keycloak/keycloak:24.0.5
 
 
 #支持私库
