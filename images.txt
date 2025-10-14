@@ -1,7 +1,8 @@
-keycloak/keycloak:26.4
-keycloak/keycloak:21.1.1
-keycloak/keycloak:24.0.5
-
+gitlab/gitlab-ce:18.2.8-ce.0
+gitlab/gitlab-ce:16.8.8-ce.0
+gitlab/gitlab-ce:15.11.11-ce.0
+gitlab/gitlab-ce:14.8.6-ce.0
+gitlab/gitlab-ce:latest
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
