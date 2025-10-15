@@ -1,4 +1,4 @@
-jenkins/inbound-agent:latest
+jenkins/jnlp-agent-docker:latest
 
 
 #支持私库
