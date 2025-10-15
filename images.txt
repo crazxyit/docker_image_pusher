@@ -1,4 +1,4 @@
-jenkins/jenkins:2.532
+jenkins/inbound-agent:latest
 
 
 #支持私库
