@@ -1,5 +1,4 @@
-jenkins/jnlp-agent-golang:latest
-jenkins/jnlp-agent-maven:latest
+osixia/openldap:latest
 
 
 
