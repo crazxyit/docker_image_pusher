@@ -1,7 +1,6 @@
-apereo/cas:7.3.0
-apereo/cas:7.2.7
-apereo/cas:7.1.6.2
-apereo/cas:6.6.15
+jenkins/jnlp-agent-golang:latest
+jenkins/jnlp-agent-maven:latest
+
 
 
 #支持私库
