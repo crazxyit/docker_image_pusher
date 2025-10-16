@@ -1,4 +1,7 @@
-jenkins/jnlp-agent-docker:latest
+casbin/casdoor:v2.59.0
+casbin/casdoor:v2.69.0
+casbin/casdoor:v2.86.0
+casbin/casdoor:v2.79.0
 
 
 #支持私库
