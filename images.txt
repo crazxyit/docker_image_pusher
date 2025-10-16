@@ -1,6 +1,10 @@
 jumpserver/jms_all:v4.10.9
 jumpserver/jms_all:v4.9.0
-jumpserver/jms_all:v4.8.1
+jumpserver/jms_all:v4.8.0
+jumpserver/jms_all:v4.7.0
+jumpserver/jms_all:v4.6.0
+jumpserver/jms_all:v4.5.0
+jumpserver/jms_all:v4.4.0
 
 
 #支持私库
