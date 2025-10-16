@@ -1,7 +1,7 @@
-casbin/casdoor:v2.59.0
-casbin/casdoor:v2.69.0
-casbin/casdoor:v2.86.0
-casbin/casdoor:v2.79.0
+apereo/cas:7.3.0
+apereo/cas:7.2.7
+apereo/cas:7.1.6.2
+apereo/cas:6.6.15
 
 
 #支持私库
