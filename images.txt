@@ -1,5 +1,6 @@
-osixia/openldap:latest
-
+jumpserver/jms_all:v4.10.9
+jumpserver/jms_all:v4.9.0
+jumpserver/jms_all:v4.8.1
 
 
 #支持私库
